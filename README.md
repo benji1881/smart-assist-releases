@@ -18,7 +18,7 @@ starts and updates itself from the latest release.
 - **Auto-Attack** - hits nearby mobs at full charge with the weapon you hold, with optional aim assist and automatic critical hits.
 - **Bow Assist** - aims bows and crossbows at mobs, allowing for arrow drop and movement, and shoots once the shot is clear.
 - **Auto Block** - raises your shield against mobs close by and incoming arrows, fireballs and other projectiles.
-- **Reflect Fireballs** - hits a ghast's fireball or a breeze's wind charge back at the mob that fired it.
+- **Reflect Projectiles** - hits a ghast's fireball or a breeze's wind charge back at the mob that fired it, and knocks a shulker's bullet out of the air before it can levitate you.
 - **Skip Neutral Mobs** - leaves zombified piglins, piglins and endermen alone until they're angry.
 - **Anti-Cheat Safe** - keeps everything the mod does to what a player could do by hand, for servers with anti-cheat.
 
