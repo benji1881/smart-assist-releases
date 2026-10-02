@@ -19,6 +19,8 @@ starts and updates itself from the latest release.
 - **Bow Assist** - aims bows and crossbows at mobs, allowing for arrow drop and movement, and shoots once the shot is clear.
 - **Auto Block** - raises your shield against mobs close by and incoming arrows, fireballs and other projectiles.
 - **Reflect Projectiles** - hits a ghast's fireball or a breeze's wind charge back at the mob that fired it, and knocks a shulker's bullet out of the air before it can levitate you.
+- **Auto Spacing** - keeps you just outside melee mobs' reach while your attack recharges, and steps back in when it's ready.
+- **Return View** - glides the camera back to where you were looking after each hit.
 - **Skip Neutral Mobs** - leaves zombified piglins, piglins and endermen alone until they're angry.
 - **Anti-Cheat Safe** - keeps everything the mod does to what a player could do by hand, for servers with anti-cheat.
 
