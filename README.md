@@ -38,7 +38,7 @@ starts and updates itself from the latest release.
 - **Auto Tool** - switches to the best tool in your hotbar for the block you're breaking.
 - **Auto Replenish** - refills an empty hotbar slot with the same item from your inventory.
 - **Farmer** - harvests and replants ripe crops, plants saplings and seeds bare farmland.
-- **Fisherman** - reels in when a fish bites and casts again.
+- **Fisherman** - reels in when a fish bites and casts again; with Starcatcher, also plays or helps with its minigame.
 - **Rancher** - feeds every animal in reach with one right-click.
 - **Lamplighter** - places torches wherever it's dark enough for mobs to spawn.
 - **Bridger** - places blocks under you as you walk off an edge, and pillars straight up.
